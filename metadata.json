@@ -1,0 +1,6 @@
+{
+  "name": "Chanouti Masala",
+  "description": "Offline inventory, billing, production, and udhaar ledger app for Chanouti Masala spice manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

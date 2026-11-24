@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chanouti Masala</string>
+    <string name="app_brand_hindi">चुनौती मसाला</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_dashboard_hi">हिसाब-किताब</string>
+    <string name="tab_sell">Sell</string>
+    <string name="tab_sell_hi">माल बेचें</string>
+    <string name="tab_stock">Stock</string>
+    <string name="tab_stock_hi">स्टॉक</string>
+    <string name="tab_ledger">Ledger</string>
+    <string name="tab_ledger_hi">बिक्री/उधारी</string>
+</resources>
